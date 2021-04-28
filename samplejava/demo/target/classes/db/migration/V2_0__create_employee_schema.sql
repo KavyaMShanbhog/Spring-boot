@@ -1,0 +1,2 @@
+INSERT INTO `employee` (`name`,`email`,`date_of_birth`) values('KAVYA','kavy@gmail.com','2021-09-09');
+INSERT INTO `employee` (`name`,`email`,`date_of_birth`) values('abcd','abcd@gmail.com','2022-09-09');
